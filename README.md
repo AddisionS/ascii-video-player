@@ -31,6 +31,6 @@ A real-time terminal video player that converts **YouTube videos to ASCII art**,
 ### 📦 Requirements
 
 - Python 3.10+
-- [ffmpeg]
-- [yt-dlp]
-- [Pillow]
+- [ffmpeg](https://ffmpeg.org/)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [Pillow](https://pypi.org/project/pillow/)
